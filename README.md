@@ -1,9 +1,10 @@
 # Links 
 ## Blockchain Resources
-- [Ethereum Provider API] (https://docs.metamask.io/guide/ethereum-provider.html)
+- [Ethereum Provider API](https://docs.metamask.io/guide/ethereum-provider.html)
 - [The Ethereum Handbook](https://cypherpunks-core.github.io/ethereumbook/)
 - [How to Create an ERC-20 Token (4 Steps)](https://medium.com/coinmonks/how-to-create-an-erc-20-token-4-steps-8a6a0b01e0b6)
 - [EthereumJS Wallet](https://www.npmjs.com/package/ethereumjs-wallet)
+- [How to insert value into the ethereum blockchain and display it on a webpage](https://medium.com/coinmonks/a-really-simple-smart-contract-on-how-to-insert-value-into-the-ethereum-blockchain-and-display-it-62c455610e98)
 
 ### Wallets
 * Custodial Web3 Wallets (https://medium.com/coinmonks/how-to-develop-a-custodial-wallet-for-cryptocurrencies-f86fd5a0813a)
