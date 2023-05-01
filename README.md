@@ -19,6 +19,7 @@
 - [Building A Simple Ethereum Wallet From Scratch](https://www.youtube.com/watch?v=hNdXSMKLDi4)
 - [ERC20 Tokens Explained (Ethereum Request for Comment 20)](https://www.youtube.com/watch?v=5UVOoDbcUoA)
 - [Building an NFT Marketplace from Scratch - React Tutorial](https://www.youtube.com/watch?v=FIiekfY6q7Y)
+- [Introduction to Ethereum development]( https://www.youtube.com/watch?v=MlJPjJQZtC8)
 
 
 ## Tools
