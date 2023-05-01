@@ -7,11 +7,12 @@
 - [How to insert value into the ethereum blockchain and display it on a webpage](https://medium.com/coinmonks/a-really-simple-smart-contract-on-how-to-insert-value-into-the-ethereum-blockchain-and-display-it-62c455610e98)
 
 ### Wallets
-* Custodial Web3 Wallets (https://medium.com/coinmonks/how-to-develop-a-custodial-wallet-for-cryptocurrencies-f86fd5a0813a)
+- [Custodial Web3 Wallets](https://medium.com/coinmonks/how-to-develop-a-custodial-wallet-for-cryptocurrencies-f86fd5a0813a)
 - [Ethereum provider API | MetaMask docs](https://docs.metamask.io/guide/ethereum-provider.html)
-- [Chapter 5: Wallets](https://cypherpunks-core.github.io/ethereumbook/05wallets.html)
+- [Ethereum Book Chapter 5: Wallets](https://cypherpunks-core.github.io/ethereumbook/05wallets.html)
 - [Tatum API Documentation - Ethereum](https://apidoc.tatum.io/tag/Ethereum/#operation/EthGenerateAddress)
 - [Ethers.js Documentation - HDNode](https://docs.ethers.io/v5/api/utils/hdnode/)
+- [Offline Wallet Generator using Ethers JS](https://coinsbench.com/offline-wallet-generator-using-ethers-js-for-csc-29c55ba3152f)
 
 #### Videos
 
