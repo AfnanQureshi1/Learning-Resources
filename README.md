@@ -27,5 +27,9 @@
 - [Chakra UI](https://chakra-ui.com/)
 - [Swiper Demos](https://swiperjs.com/demos) 
 
-
+## Games to Learn Programming
+- [CSS Gridbox](https://cssgridgarden.com/)
+- [CSS Flexbox](https://flexboxfroggy.com/ )
+- [Smart Contracts Tutorial Via Zombies Game]( https://cryptozombies.io/)
+- [Learn how to build on Ethereum; the superpowers and the gotchas.]( https://speedrunethereum.com/)
 
