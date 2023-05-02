@@ -13,6 +13,7 @@
 - [Tatum API Documentation - Ethereum](https://apidoc.tatum.io/tag/Ethereum/#operation/EthGenerateAddress)
 - [Ethers.js Documentation - HDNode](https://docs.ethers.io/v5/api/utils/hdnode/)
 - [Offline Wallet Generator using Ethers JS](https://coinsbench.com/offline-wallet-generator-using-ethers-js-for-csc-29c55ba3152f)
+- [Wallets Display logic and Input - Ethers JS Library](https://docs.ethers.org/v5/api/utils/display-logic/#utils-formatEther)
 
 #### Videos
 
