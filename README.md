@@ -15,6 +15,9 @@
 - [Offline Wallet Generator using Ethers JS](https://coinsbench.com/offline-wallet-generator-using-ethers-js-for-csc-29c55ba3152f)
 - [Wallets Display logic and Input - Ethers JS Library](https://docs.ethers.org/v5/api/utils/display-logic/#utils-formatEther)
 
+### Tokenisation
+- [What is a Reentrancy Attack?](https://www.certik.com/resources/blog/3K7ZUAKpOr1GW75J2i0VHh-what-is-a-reentracy-attack)
+
 #### Videos
 
 - [Building A Simple Ethereum Wallet From Scratch](https://www.youtube.com/watch?v=hNdXSMKLDi4)
